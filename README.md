@@ -1,5 +1,5 @@
-### Hi there :smile:, I'm Timi 👋
-# learning new things
+### Hi there 👋, I'm Timi :smile:
+# I keep learning new things and taking baby steps
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React.js
