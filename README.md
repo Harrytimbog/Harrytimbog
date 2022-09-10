@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timi :smile:</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
-- 🌱 I’m currently building with **React.js**
+- 🌱 I’m currently building with **React.js** and **Node.js**
 
 - 💬 Ask me about **Ruby, Ruby on Rails**
 
