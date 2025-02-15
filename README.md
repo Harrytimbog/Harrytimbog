@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Ruby, Ruby on Rails**
 
-- 📫 How to reach me **Harriemannie@gmail.com**
+- 📫 How to reach me **harrytimbog@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
