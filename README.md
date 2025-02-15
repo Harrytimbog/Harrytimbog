@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently building with **React.js** and **Node.js**
 
-- 💬 Ask me about **Ruby, Ruby on Rails**
+- 💬 Ask me about **Ruby, Ruby on Rails, javascript, c#, Node.js, React.js, Python**
 
 - 📫 How to reach me **harrytimbog@gmail.com**
 
